@@ -1,9 +1,6 @@
 ## Me chamo Edison Junior
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 Estou trabalhando com Frontend ...
 - 🌱 Estou estudando React ...
 
