@@ -31,6 +31,6 @@
  	<a href="https://github.com/junior-escjr" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href = "mailto:jr.escjr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/junior-escjr/junior-escjr/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/junior-escjr/junior-escjr/output/github-contribution-grid-snake.svg)
  
 </div>
